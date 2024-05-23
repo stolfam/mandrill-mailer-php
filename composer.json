@@ -1,0 +1,27 @@
+{
+  "name": "stolam/mandrill",
+  "license": "MIT",
+  "description": "Easy-to-use PHP library for sending emails with Mandrill.",
+  "version": "v1.3.1",
+  "type": "library",
+  "require": {
+    "php": ">= 7.1.0",
+    "mandrill/mandrill": "^1.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ],
+    "files": [
+      "src/bootstrap.php"
+    ]
+  },
+  "minimum-stability": "stable",
+  "config": {
+    "platform": {
+      "php": "7.1"
+    }
+  }
+}
