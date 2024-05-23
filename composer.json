@@ -2,7 +2,7 @@
   "name": "stolfam/mandrill",
   "license": "MIT",
   "description": "Easy-to-use PHP library for sending emails with Mandrill.",
-  "version": "v1.3.1",
+  "version": "v1.3.2",
   "type": "library",
   "require": {
     "php": ">= 7.1.0",
