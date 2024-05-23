@@ -1,5 +1,5 @@
 {
-  "name": "stolam/mandrill",
+  "name": "stolfam/mandrill",
   "license": "MIT",
   "description": "Easy-to-use PHP library for sending emails with Mandrill.",
   "version": "v1.3.1",
